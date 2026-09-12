@@ -1,82 +1,25 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   viewBox="0 0 256 256"
-   width="256"
-   height="256"
-   role="img"
-   aria-label="Star programming language logo (outline version)"
-   version="1.1"
-   id="svg3"
-   sodipodi:docname="star-logo-outline-color.svg"
-   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
-  <sodipodi:namedview
-     id="namedview3"
-     pagecolor="#ffffff"
-     bordercolor="#000000"
-     borderopacity="0.25"
-     inkscape:showpageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="2.4000894"
-     inkscape:cx="113.74576"
-     inkscape:cy="132.70339"
-     inkscape:window-width="1920"
-     inkscape:window-height="1009"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg3" />
-  <defs
-     id="defs2">
-    <linearGradient
-       id="swatch10"
-       inkscape:swatch="solid">
-      <stop
-         style="stop-color:#000000;stop-opacity:1;"
-         offset="0"
-         id="stop11" />
-    </linearGradient>
-    <linearGradient
-       id="stroke"
-       x1="0"
-       y1="0"
-       x2="1"
-       y2="1">
-      <stop
-         offset="0%"
-         stop-color="#FF7A2E"
-         id="stop1" />
-      <stop
-         offset="100%"
-         stop-color="#D4451A"
-         id="stop2" />
-    </linearGradient>
-  </defs>
-  <!-- faint corona ring -->
-  <!-- plasma prominence arc (Southeast / 315°) -->
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 256 256"
+  width="256"
+  height="256"
+  role="img"
+  aria-label="Star programming language logo (outline version)"
+  style="--stroke-color: #d6461a;">
+
   <path
-     d="m 196,158 q 39,77 -38,38"
-     fill="none"
-     stroke="url(#stroke)"
-     stroke-width="6"
-     stroke-linecap="round"
-     id="path2"
-     style="stroke:#d6461a;fill:none;stroke-opacity:1" />
-  <!-- photosphere disc outline -->
+    d="M 196,158 Q 235,235 158,196"
+    fill="none"
+    stroke="var(--stroke-color)"
+    stroke-width="6"
+    stroke-linecap="round" />
+
   <circle
-     cx="125"
-     cy="125"
-     r="78"
-     fill="none"
-     stroke="url(#stroke)"
-     stroke-width="6"
-     id="circle3"
-     inkscape:label="circle3"
-     style="stroke:#d6461a;fill:#d6461a;fill-opacity:1;stroke-opacity:1" />
-  <!-- spherical light highlight outline -->
+    cx="125"
+    cy="125"
+    r="78"
+    fill="var(--stroke-color)"
+    stroke="var(--stroke-color)"
+    stroke-width="6" />
+
 </svg>
